@@ -1,7 +1,7 @@
 # ORIE5741_Project
 Cornell ORIE5741 Learning with Big Messy Data Project
 
-Project Name: Approval for Credit Prediction
+Project Name: Credit Approval Prediction
 
 Project Members:Yijun ZHU(yz2745), Xinyue LIU(xl533), Ruifan CHEN(rc654)
 
