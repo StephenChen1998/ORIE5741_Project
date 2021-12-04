@@ -10,3 +10,4 @@ We plan to apply the dataset from HMDA specifically in New York state in year 20
 
 Project Presentation:
 https://youtu.be/i4pNYc4_Ju0
+(Note: the slides shown in video may not be so clearly, you could refer to our slides through this link: https://github.com/StephenChen1998/ORIE5741_Project/blob/main/Project%20Presentation.pdf)
